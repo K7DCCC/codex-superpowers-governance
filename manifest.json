@@ -1,0 +1,28 @@
+{
+  "bundle_name": "codex-superpowers-governance-portable",
+  "bundle_version": "1.0.0",
+  "created": "2026-07-30",
+  "source_superpowers_version": "6.2.0",
+  "source_codex_version": "0.146.0-alpha.3.1",
+  "skills": {
+    "explicit_or_confirm_only": [
+      "brainstorming",
+      "dispatching-parallel-agents",
+      "executing-plans",
+      "finishing-a-development-branch",
+      "receiving-code-review",
+      "requesting-code-review",
+      "subagent-driven-development",
+      "systematic-debugging",
+      "test-driven-development",
+      "using-git-worktrees",
+      "using-superpowers",
+      "writing-plans",
+      "writing-skills"
+    ],
+    "conditional_auto": [
+      "verification-before-completion"
+    ]
+  }
+}
+

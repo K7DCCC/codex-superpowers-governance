@@ -1,0 +1,5 @@
+interface:
+  display_name: "Writing Skills"
+  short_description: "Create and verify skills before deployment"
+policy:
+  allow_implicit_invocation: false

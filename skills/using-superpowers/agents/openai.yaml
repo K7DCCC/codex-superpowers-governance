@@ -1,0 +1,5 @@
+interface:
+  display_name: "Using Superpowers"
+  short_description: "Establish how and when to use Superpowers skills"
+policy:
+  allow_implicit_invocation: false
